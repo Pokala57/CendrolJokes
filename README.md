@@ -25,7 +25,7 @@ The Chuck Norris Jokes app allows users to browse different categories of jokes 
 1. Clone the repository:
 
 
-git clone https://github.com/your-username/chuck-norris-jokes-app.git
+git clone  https://github.com/Pokala57/CendrolJokes.git
 Navigate to the project directory:
 
 
@@ -38,7 +38,7 @@ Start the development server:
 
 
 npm start
-Open the app in your browser at http://localhost:3000.
+Open the app in your browser at https://64aaca0d51b999383d72f329--legendary-chimera-0869ab.netlify.app/
 
 
 ## Description
