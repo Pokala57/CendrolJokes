@@ -2,7 +2,6 @@
   "name": "dummy_react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "git remote add origin git://url-here",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
